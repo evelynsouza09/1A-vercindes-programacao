@@ -15,4 +15,12 @@ p{
     width: 35%;
     height: 25%;
     border: 2px solid black;
+
+.itens{
+    font-style:italic;
+    text-align: :left;
+
 }
+ .beneficios{
+    background-color: white;
+ }
